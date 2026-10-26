@@ -1,0 +1,3 @@
+cats like fish .
+dogs like bones .
+birds fly in sky .

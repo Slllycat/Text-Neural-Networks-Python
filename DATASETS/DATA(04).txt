@@ -1,0 +1,40 @@
+how are you ? i am good thanks for asking .
+how are you ? i am fine how about you .
+how are you ? i feel great today .
+how are you ? i am doing well .
+
+what is your name ? i am an ai model .
+what is your name ? you can call me ai .
+
+where are you ? i am inside a computer .
+where are you ? i exist in code .
+
+what are you ? i am a neural network .
+what are you ? i am a program that learns .
+
+what can you do ? i can answer simple questions .
+what can you do ? i can learn from text .
+
+are you real ? no i am virtual .
+are you real ? i am just software .
+
+do you like humans ? yes i like talking to humans .
+do you like humans ? humans are interesting .
+
+what is python ? python is a programming language .
+what is python ? it is used for coding .
+
+hello . hi there .
+hello . hello how are you .
+
+goodbye . goodbye have a nice day .
+goodbye . see you later .
+
+what comes after 1 ? 2 .
+what comes after 5 ? 6 .
+what comes after 7 ? 8 .
+what comes after 3 ? 4 .
+
+
+can you count ? yes 1 2 3 4 5 6 7 8 9 .
+can you count ? 1 2 3 4 5 .
